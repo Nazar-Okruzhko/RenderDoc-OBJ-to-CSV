@@ -1,4 +1,4 @@
-# RenderDoc "OBJ-2-CSV" converter (4th December Update)
+# RenderDoc "OBJ-2-CSV" converter
 
 <img width="729" height="606" alt="Screenshot (3129)" src="https://github.com/user-attachments/assets/504f2baa-835f-4180-9ca1-1ee743aed395" />
 
